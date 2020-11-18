@@ -17,5 +17,8 @@
     "morgan": "^1.9.1",
     "rss": "^1.2.2",
     "seed-random": "~1.0.1"
+  },
+  "engines": {
+    "node": "15.x"
   }
 }
